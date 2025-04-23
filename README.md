@@ -1,6 +1,6 @@
 # VidStream : A Youtube streaming platform
 🎥 VidStream — A YouTube Streaming Platform
-VidStream is a sleek and responsive YouTube-inspired video streaming application, built with modern web technologies like React, React Router, and Moment.js. It provides users with a seamless experience to watch videos, explore trending content, and enjoy personalized recommendations—all through a clean and interactive interface.
+VidStream is a sleek and responsive YouTube-inspired video streaming application, built with modern web technologies like React, React Router, and Moment.js. It provides users with a seamless experience to watch videos, explore trending content, and enjoy personalized recommendations all through a clean and interactive interface.
 
 🚀 Features
 🔍 Search & Discover: Explore trending and recommended videos.
